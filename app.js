@@ -1,0 +1,1 @@
+document.getElementById('app').innerText = "여기에 JavaScript로 앱이 로드됩니다.";
